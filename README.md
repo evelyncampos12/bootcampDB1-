@@ -8,3 +8,5 @@
   - `git config --global user.email "meuEmail"`
   - `git --help`
 - Primeiros Comandos
+
+## Primeira atividade
