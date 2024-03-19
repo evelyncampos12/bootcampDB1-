@@ -10,3 +10,8 @@
 - Primeiros Comandos
 
 ## Primeira atividade
+
+## Segunda Aula
+
+- conventional commits
+- Branchs
