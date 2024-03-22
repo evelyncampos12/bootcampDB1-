@@ -15,3 +15,10 @@
 
 - conventional commits
 - Branchs
+
+## Terceira Aula
+
+- aprendendo sobre conflitos
+- Resolução com rebase e merge
+- aprendendo sobre git log
+- aprendendo sobre Cherry Pick
